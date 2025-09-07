@@ -1,6 +1,6 @@
 # 💻 Abdullah Ashraf Emara | AI/ML Engineer & Data Scientist  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%7C+Computer+Vision+%7C+NLP+%7C+Data+Scientist&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+%7C+Computer+Vision+%7C+NLP+%7C+Data+Scientist&repeat=false)](https://git.io/typing-svg)
 
 
 

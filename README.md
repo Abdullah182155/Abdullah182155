@@ -1,6 +1,6 @@
 # 💻 Abdullah Ashraf Emara | AI/ML Engineer & Data Scientist  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=10000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+%7C+Computer+Vision+%7C+NLP+%7C+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+%7C+Computer+Vision+%7C+NLP+%7C+Data+Scientist)](https://git.io/typing-svg)
 
 ---
 
@@ -15,23 +15,22 @@
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 📊 ML Libraries  
+### 📊 ML Libraries & Frameworks 
 <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-%2347A248.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-%2300AEEF.svg?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
+
 
 ### 💻 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### ⚙️ Backend  
